@@ -9,15 +9,8 @@ This project is a 3D simulation of a haunted palace created using OpenGL 3.3, de
 - **Interactive Objects**: Gates, windows, and other elements can be controlled with keyboard inputs.
 - **Dynamic Sky**: A sky that transitions from day to night, affecting shadows and light intensity.
 - **Real-time Camera Control**: Navigate through the environment with intuitive keyboard inputs for movement and rotation.
-- **Textures and Materials**: Realistic textures applied to walls, furniture, and the graveyard, enhancing the overall atmosphere.
-
-## Features in Detail
-- **Lighting & Shading**: Advanced lighting techniques like Phong shading, with interactive controls for different light types and intensities.
-- **3D Modeling**: Complex objects like gates and pillars modeled using Bezier curves and geometric primitives.
-- **Dynamic Object Interaction**: Doors, windows, and gates can be opened or closed based on user input, adding realism and interactivity.
-- **Sky Transition**: The environment changes from morning to night, with dynamic lighting and shadow effects to enhance the spooky mood.70,73,75,79,78,80,84
-
-
+- **Textures and Materials**: Realistic textures are applied to walls, furniture, and the graveyard, enhancing the overall atmosphere.
+  
 ## Keyboard Controls
 controls for the project simulation.
 
