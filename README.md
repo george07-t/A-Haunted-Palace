@@ -33,21 +33,19 @@ controls for the project simulation.
 
 
 ## Screenshots
+
 ### Haunted Palace Interior
-![Screenshot (770)](https://github.com/user-attachments/assets/ebf3436b-972c-473b-8e9c-551ad215aa73)
-![Screenshot (773)](https://github.com/user-attachments/assets/97a48bd9-b6ad-4983-a5f3-e6131e2f31e1)
-![Screenshot (775)](https://github.com/user-attachments/assets/4570ac04-3764-41d1-8e7b-4f421fcf853c)
-![Screenshot (779)](https://github.com/user-attachments/assets/0390676e-4936-4606-95bf-44de2000515e)
-![Screenshot (778)](https://github.com/user-attachments/assets/fc46b592-9d70-4d65-b826-6b8dd70ff2a9)
-![Screenshot (780)](https://github.com/user-attachments/assets/46aac4d2-3375-4e2d-a601-1d73157eb135)
-![Screenshot (784)](https://github.com/user-attachments/assets/01bfc4f3-8a2c-429a-ba62-9703668d329d)
-
-
+<img src="https://github.com/user-attachments/assets/ebf3436b-972c-473b-8e9c-551ad215aa73" width="600" />
+<img src="https://github.com/user-attachments/assets/97a48bd9-b6ad-4983-a5f3-e6131e2f31e1" width="600" />
+<img src="https://github.com/user-attachments/assets/4570ac04-3764-41d1-8e7b-4f421fcf853c" width="600" />
+<img src="https://github.com/user-attachments/assets/0390676e-4936-4606-95bf-44de2000515e" width="600" />
+<img src="https://github.com/user-attachments/assets/fc46b592-9d70-4d65-b826-6b8dd70ff2a9" width="600" />
+<img src="https://github.com/user-attachments/assets/46aac4d2-3375-4e2d-a601-1d73157eb135" width="600" />
+<img src="https://github.com/user-attachments/assets/01bfc4f3-8a2c-429a-ba62-9703668d329d" width="600" />
 
 ### Graveyard and Exterior
-![Screenshot (771)](https://github.com/user-attachments/assets/2a53bf22-7e7e-4ecd-a6be-5232e28f9298)
-
+<img src="https://github.com/user-attachments/assets/2a53bf22-7e7e-4ecd-a6be-5232e28f9298" width="600" />
 
 ### Dynamic Sky
-![Screenshot (783)](https://github.com/user-attachments/assets/1bf00bca-5b3d-42e1-b48e-c362863f674f)
+<img src="https://github.com/user-attachments/assets/1bf00bca-5b3d-42e1-b48e-c362863f674f" width="600" />
 
