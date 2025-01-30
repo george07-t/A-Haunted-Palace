@@ -31,6 +31,10 @@ controls for the project simulation.
 | V   | Rotate camera right (along a custom axis) | Q   | Toggle the window (open/close)     |
 
 
+## Demo Video
+
+https://github.com/user-attachments/assets/48927335-13b0-40d6-a427-becc66870124
+
 
 ## Screenshots
 
